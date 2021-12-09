@@ -116,6 +116,7 @@ Helpful commands:
 If you want to report bugs or have any questions on how to use me then feel free to reach out: @XForceSupport.
 All commands can be used with the following: / ! ?
 List of all the Modules:
+{}
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "📝All commands can either be used with / or !.",
